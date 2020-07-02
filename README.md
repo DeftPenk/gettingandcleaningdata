@@ -16,5 +16,5 @@ Goal | Link to Item
 Analysis R Script |  [R Script Link](https://github.com/DeftPenk/gettingandcleaningdata/commit/003655ac006c25b3cb2ea7542f6f00ff1041dea7)
 Tidy Data Set |  [Data Set Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/tidyData.txt)
 Github Repo |  [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata)
-Cookbook | [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/CodeBook.md)
+Codebook | [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/CodeBook.md)
 README |  [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/README.md)
