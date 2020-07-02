@@ -22,7 +22,7 @@ performs the data preparation and then followed by the 5 steps required as descr
 - Appropriately labels the data set with descriptive variable names.
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### tidydata.txt
+### tidy_data.txt
 is the exported final data after going through all the sequences described above.
 
 ## Review Criteria
@@ -30,7 +30,7 @@ is the exported final data after going through all the sequences described above
 Goal | Link to Item
 --- | ---
 Analysis R Script |  [R Script Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/run_analysis.R)
-Tidy Data Set |  [Data Set Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/tidyData.txt)
+Tidy Data Set |  [Data Set Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/tidy_Data.txt)
 Github Repo |  [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata)
 Codebook | [CodeBook Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/CodeBook.md)
 README |  [README](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/README.md)
