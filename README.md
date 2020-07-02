@@ -29,8 +29,8 @@ is the exported final data after going through all the sequences described above
 
 Goal | Link to Item
 --- | ---
-Analysis R Script |  [R Script Link](https://github.com/DeftPenk/gettingandcleaningdata/commit/003655ac006c25b3cb2ea7542f6f00ff1041dea7)
+Analysis R Script |  [R Script Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/run_analysis.R)
 Tidy Data Set |  [Data Set Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/tidyData.txt)
 Github Repo |  [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata)
-Codebook | [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/CodeBook.md)
-README |  [Repo Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/README.md)
+Codebook | [CodeBook Link](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/CodeBook.md)
+README |  [README](https://github.com/DeftPenk/gettingandcleaningdata/blob/master/README.md)
