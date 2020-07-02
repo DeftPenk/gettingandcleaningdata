@@ -1,5 +1,7 @@
 # Getting and Cleaning Data Week 4 Project
 
+Author : Aditya Vikram Dash
+
 ## Goal of the Project
 
 1. A tidy data set
